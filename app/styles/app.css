@@ -1,0 +1,86 @@
+html, body {
+  max-width: 100%;
+  padding: 0;
+  margin: 0 auto; }
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  color: #005999;
+  font-size: 18px;
+  background: linear-gradient(to bottom, #cceaff 0%, white 100%);
+  height: auto; }
+
+.row a {
+  color: #FFF;
+  border: 1px solid #005999;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  font-size: 14px;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  background: linear-gradient(to bottom, #005999 0%, #0077cc 49%, #005999 51%, #0077cc 100%);
+  font-weight: bold; }
+
+a:hover {
+  background: linear-gradient(to bottom, #0077cc 0%, #0094ff 49%, #0077cc 51%, #0094ff 100%);
+  color: #fdfdfd; }
+
+.row {
+  max-width: 960px;
+  min-height: 620px;
+  background: linear-gradient(to bottom, #66bfff 0%, white 100%);
+  border: 2px solid #005999;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  margin: 0px auto;
+  margin-top: -60px;
+  clear: both; }
+
+.icon {
+  width: 30%;
+  padding: 1.5%;
+  float: left;
+  min-height: 590px; }
+
+.icon:nth-child(n+1*3) {
+  clear: left; }
+
+img {
+  background: rgba(255, 255, 255, 0.5);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  max-width: 90%;
+  display: block;
+  padding: 5%;
+  margin: 0px auto;
+  margin-bottom: 20px;
+  border: 2px solid #AAA; }
+
+.dialog {
+  font-size: 14px;
+  margin: 10px auto;
+  padding: 10px;
+  background: white;
+  border: 2px solid #AAA;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75); }
+
+h1 {
+  display: block;
+  width: 90%;
+  padding: 5%;
+  text-align: center;
+  color: white;
+  margin: 0px auto;
+  background: #003333;
+  border-bottom: 2px solid #001e33; }
+
+.footer {
+  width: 90%;
+  padding: 1% 5%; }
+
+.footer a {
+  color: #005999; }
+
+.row.size2 {
+  min-height: 1300px; }

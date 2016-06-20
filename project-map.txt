@@ -1,0 +1,39 @@
+App idea:
+FelSpace - Interactive Portfolio of Felicia 'FEL' Connor
+
+Three Main Icons:
+-Web
+-Imagery
+-Music
+
+-> (/portfolio/$area)
+  -Three thumbnails
+  -On hover, animate-in project name and description of work done
+  -Nofollow link to project piece.
+
+Web:
+  Use resume examples
+
+Imagery:
+  -Logo, Felikitty
+    -Inspired by 1980's cartoon and video game branding, IE S.W.A.T KATS and Fatal Fury.
+    -All color and textures designed in Photoshop using a wide variety of tools and techniques.
+  -Album Art, 'Compendium'
+    -Angular panorama effect learned through experimentation--no tutorials used in the making.
+    -Techniques used include perspective-based skewing, classical photo editing techniques such as masking, cloning, and blending.
+    -Employs a screening technique to give the appearance of an aged LP cover.
+  -Album Art, 'Anthem of Anguish' (Halloween 2015)
+    -Created primarily using compositing and a similar shifted-perspective technique seen in 'Compendium'
+    -Uses several methods of filtering, dodging and burning, color correction and line-work to achieve an HP Lovecraft inspired aesthetic.
+    -Makes use of color and elements of 'body horror' to achieve an unsettling aesthetic.
+
+Music:
+  -Portfolio Piece: Theme of Xintana
+    -Made as a concept piece for an action RPG with a pre-Colombian aesthetic.
+    -Uses a mix of synths, woodwinds, and tribal-influenced rhythms to reflect the lush nature depicted in concept art.
+  -Remix: Satellite Young - Dividual Heart
+    -Remix produced for Japan-based synthpop duo Satellite Young.
+    -Features an entirely different aesthetic and chord structure from the original, while preserving the original vocals and solos.
+  -Recent EP: In Bloom
+    -A concept EP of eclectic instrumentals meant to convey the emotional progress experienced during transition.
+    -Uses a variety of influences in each track to give a distinct emotional mood, IE jazz-waltz inspired drum beats.

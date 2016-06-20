@@ -6,6 +6,9 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('web-portfolio');
+  this.route('imagery-portfolio');
+  this.route('music-portfolio');
 });
 
 export default Router;

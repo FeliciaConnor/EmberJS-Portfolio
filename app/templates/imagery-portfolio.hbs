@@ -1,0 +1,21 @@
+<div class="main-content">
+  <h1>Portfolio of Felicia Connor - Selected Visual Works</h1>
+
+  <div class="row">
+    {{#each model as |imagery|}}
+      <div class="icon">
+          <img src="/assets/{{imagery.[1]}}" />
+          <a href="{{imagery.[3]}}">{{imagery.[0]}}</a>
+          <div class="dialog">{{imagery.[2]}}</div>
+      </div>
+    {{/each}}
+  </div>
+
+</div>
+
+<div class="footer">
+  Selected Works: <a href="/web-portfolio">Web</a> | <a href="/imagery-portfolio">Imagery</a> | <a href="/music-portfolio">Music</a>
+  <p>&copy; 2016 Felicia Connor. Powered by EmberJS.</p>
+</div>
+
+{{outlet}}

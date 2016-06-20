@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  color: #005999;
+  font-size: 24px; }
+
+a {
+  color: #FFF;
+  border: 1px solid #005999;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  font-size: 28px;
+  padding: 10px;
+  background: linear-gradient(to bottom, #005999 0%, #0077cc 49%, #005999 51%, #0077cc 100%);
+  font-weight: bold; }
+
+a:hover {
+  background: linear-gradient(to bottom, #0077cc 0%, #0094ff 49%, #0077cc 51%, #0094ff 100%);
+  color: #fdfdfd; }
